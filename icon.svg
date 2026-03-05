@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#080808"/>
+  <rect x="0" y="0" width="512" height="8" fill="#c9a84c"/>
+  <rect x="0" y="504" width="512" height="8" fill="#c9a84c"/>
+  <text x="256" y="200" font-family="Georgia,serif" font-size="180" font-weight="700" fill="#c9a84c" text-anchor="middle" dominant-baseline="middle">★</text>
+  <text x="256" y="340" font-family="Courier New,monospace" font-size="52" font-weight="700" fill="#c9a84c" text-anchor="middle" letter-spacing="6">OS</text>
+  <text x="256" y="410" font-family="Courier New,monospace" font-size="26" fill="#6b5520" text-anchor="middle" letter-spacing="4">SUPERSTAR</text>
+</svg>
